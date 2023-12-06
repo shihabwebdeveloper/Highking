@@ -1,0 +1,190 @@
+@media (min-width:320px) and (max-width:575px){
+    nav ul li a{
+        margin-left: 0px;
+    }
+    #banner-part .text h2{
+        margin-top: 45px;
+        font-size: 35px;
+    }
+    #banner-part .text p{
+        width: 280px;
+        font-size: 17px;
+    }
+    #banner-part .text a{
+        margin-top: 15px;
+        font-size: 12px;
+    }
+    #banner-part .img img {
+        width: 300px;
+        margin-top: 15px;
+      }
+      #safe-part .box .text{
+        border-bottom: 1px solid rgba(0, 0, 0, .20);
+      }
+      #safe-part .dont span {
+        font-size: 15px;
+      }
+      #safe-part .dont h5 {
+        font-size: 12px;
+        margin-top: -35px;
+      }
+      #trusted-part img{
+        width: 300px; 
+        margin-top: -120px;
+      }
+      #trusted-part .text .textbox a{
+        font-size: 12px;
+      }
+      #trusted-part .text {
+        justify-content: flex-start;
+      }
+      #trusted-part .text .textbox h2 {
+        font-size: 48px;
+        width: 300px;
+      }
+      #trusted-part .text .textbox p {
+        font-size: 18px;
+        width: 310px;
+      }
+      #enjoy-part .text .textbox h2 {
+        font-size: 50px;
+        width: 310px;
+      }
+      #enjoy-part .text .textbox p {
+        font-size: 17px;
+        width: 315px;
+      }
+      #enjoy-part .text .textbox a{
+        font-size: 12px;
+      }  
+      #enjoy-part .img{
+        margin-top: 35px;
+      }
+      #enjoy-part img{
+        width: 310px;
+      }
+
+      #nature-part img{
+        width: 310px;
+        margin-top: -200px;
+      }
+      #nature-part .text{
+        justify-content: flex-start;
+      }
+      #nature-part .text .textbox h2 {
+        font-size: 55px;
+        width: 310px;
+      }
+      #nature-part .text .textbox p {
+        font-size: 17px;
+        width: 310px;
+      }
+      #nature-part .text .textbox a{
+        font-size: 12px; 
+      }
+      #client-part .item{
+        width: 255px;
+      }
+      #client-part .item .text h2{
+        font-size: 21px
+      }
+      #client-part .item .text h5{
+        font-size: 15px;
+      }
+      #client-part .item .text p{
+        width: auto;
+        font-size: 11px;
+      }
+      #client-part .item .text i{
+        font-size: 18px;
+      }
+      #client-part .carousel-indicators {
+        bottom: -20px;
+      }
+      #article-part {
+        margin-top: 60px;
+      }
+      #article-part .textbox {
+        justify-content: flex-start;
+      }
+      #article-part .textbox .text h3 {
+        width: 310px;
+        font-size: 27px;
+      }
+      #article-part .textbox .text p {
+        font-size: 13px;
+        width: 310px;
+      }
+      #article-part .textbox .text .input input {
+        padding-left: 40px;
+        width: 278px;
+      }
+      #article-part .textbox .text .input i {
+        top: 24%;
+        left: 28px;
+      }
+      #article-part .textbox .text a{
+        margin-left: -15px;
+        margin-top: 15px;
+      }
+      footer {
+        padding-top: 0px;
+      }
+      footer .logo i{
+        margin-top: 12px;
+        margin-right: 15px;
+      }
+      footer .text h4{
+        font-size: 18px;
+      }
+      footer .text ul li {
+        font-size: 15px;
+      }
+      footer .copyright h5 {
+        width: auto;
+        font-size: 15px;
+        margin-top: 15px;
+      }
+
+
+
+      /* ========================== */
+}
+@media (min-width:576px) and (max-width:767px){
+  #banner-part .text h2{
+    font-size: 64px;
+    margin-top: 30px;
+  }
+  #banner-part .text a{
+    margin-top: 20px;
+  }
+  #banner-part .img{
+    margin-top: 30px;
+  }
+  #safe-part {
+    margin-top: -490px;
+  }
+  #safe-part .box .text{
+    border-bottom: 1px solid rgba(0, 0, 0, .20);
+    padding: 10px 0px;
+  }
+  #safe-part .box .text .textbox{
+    padding: 10px 0px;
+  }
+  #journey-part .text .textbox h5 {
+    font-size: 25px;
+  }
+  #journey-part .text .textbox h2 {
+    font-size: 48px;
+  }
+  #journey-part .img img{
+    width: 235px;
+    padding: 0px 10px;
+  }
+  #journey-part .last-img{
+    text-align: center;
+  }
+
+
+  /* ======================== */
+}
